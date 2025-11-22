@@ -1,2 +1,2 @@
 # hello-world
-練習 GitHub
+這到底甚麼溝八東西
